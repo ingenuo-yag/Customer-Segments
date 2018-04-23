@@ -1,7 +1,7 @@
 # Customer-Segments
 A Project For Udacity Machine Learning Nanodegree
 
-Project Description
+# Project Description
 
 This is the 4th project for the Machine Learning Engineer Nanodegree. In this project I apply unsupervised learning techniques on product spending data collected for customers of a wholesale distributor to identify customer segments hidden in the data.
 
